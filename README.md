@@ -11,6 +11,8 @@ The following software will be setup
 - Zulip
 - Telegram
 
+![Image](https://i.imgur.com/Aa4E14u.png)
+
 ## Reference
  - [Bash](https://linux.die.net/man/1/bash)
  - [Vscode Installation](https://code.visualstudio.com/docs/setup/linux)
